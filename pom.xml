@@ -22,9 +22,9 @@
     </repositories>
 
     <dependency>
-        <groupId>org.math.helper</groupId>
-        <artifactId>MathHelperLibrary</artifactId>
-        <version>v0.1.0</version>
+	<groupId>com.github.NateIsACoder</groupId>
+	<artifactId>Math-Helper-Java-Library</artifactId>
+	<version>v0.1.0</version>
     </dependency>
 
 </project>
